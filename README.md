@@ -4,4 +4,4 @@
 <pre>$ ip link set wlan0 down
 $ ip link set wlan0 name wlan0mon</pre>
 <h2>Tangkapan layar</h2>
-< src="https://github.com/arsippenting19/fix_fern_wifi_cracker/blob/main/Screenshot_2023-04-16_10_36_11.png" />
+<img src="https://github.com/arsippenting19/fix_fern_wifi_cracker/blob/main/Screenshot_2023-04-16_10_36_11.png" />
